@@ -1,0 +1,157 @@
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.exe
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.deps.json
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.runtimeconfig.json
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.runtimeconfig.dev.json
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.dll
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\ref\Test_1.dll
+C:\Users\Admin42\source\repos\Test_1\bin\Debug\net5.0-windows\Test_1.pdb
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.AssemblyReference.cache
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.fLogin.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Form2.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Properties.Resources.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.GenerateResource.cache
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfoInputs.cache
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfo.cs
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.dll
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\ref\Test_1.dll
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.pdb
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.genruntimeconfig.cache
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Chuc_Vu.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Dot_Danh_gia.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Ke_Hoach.resources
+C:\Users\Admin42\source\repos\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Phong_Ban.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.exe
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.deps.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.runtimeconfig.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.runtimeconfig.dev.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\ref\Test_1.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\Test_1.pdb
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.fLogin.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form2.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Chuc_Vu.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Dot_Danh_gia.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Ke_Hoach.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Phong_Ban.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Properties.Resources.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.GenerateResource.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfoInputs.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfo.cs
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\ref\Test_1.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.pdb
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.genruntimeconfig.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CopyComplete
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.AssemblyReference.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Làm hộ\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Search_ChucVu.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.fLogin.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Chuc_Vu.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Dot_Danh_gia.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Ke_Hoach.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Phong_Ban.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.GenerateResource.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfoInputs.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfo.cs
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CopyComplete
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.genruntimeconfig.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.FormMain.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.FormMainLoad.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Bo_Tieu_Chi.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Chi_Tiet_Danh_Gia.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Danh_Gia.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Nhan_Vien.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Tieu_Chi.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_He_Thong.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Form_Quan_Ly.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.ResolveComReference.cache
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_Bao_cao.Form_Bao_cao.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_Bao_cao.TongHopKetQua.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.exe
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.deps.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.runtimeconfig.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.runtimeconfig.dev.json
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\ref\Navisoft.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.pdb
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Properties.Resources.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\ref\Navisoft.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.pdb
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Aspose.Words.dll
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Form_Bao_cao.Chi_Tiet_Danh_Gia.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Form_Doi_MK.resources
+C:\Users\Admin42\Desktop\Kì 2 năm 4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.exe
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.deps.json
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.runtimeconfig.json
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.runtimeconfig.dev.json
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\ref\Navisoft.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Navisoft.pdb
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Aspose.Words.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.AssemblyReference.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.ResolveComReference.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.fLogin.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.FormMain.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.FormMainLoad.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Chuc_Vu.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Dot_Danh_gia.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_He_Thong.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Ke_Hoach.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms.Phong_Ban.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Bo_Tieu_Chi.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Chi_Tiet_Danh_Gia.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Danh_Gia.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Form_Quan_Ly.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Nhan_Vien.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Forms_Quan_Ly.Tieu_Chi.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Form_Bao_cao.Chi_Tiet_Danh_Gia.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_Bao_cao.Form_Bao_cao.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.Form_Bao_cao.TongHopKetQua.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Form_Doi_MK.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.Properties.Resources.resources
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.GenerateResource.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfoInputs.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.AssemblyInfo.cs
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.csproj.CopyComplete
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\ref\Navisoft.dll
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Navisoft.pdb
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\obj\Debug\net5.0-windows\Test_1.genruntimeconfig.cache
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Template\Mau_Bao_Cao_Tong_Hop.doc
+C:\Users\Admin42\Desktop\Ki_2_nam_4\Phuong Project\Test_1\Test_1\bin\Debug\net5.0-windows\Template\Mau_Bao_Cao.doc

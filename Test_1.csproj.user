@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_He_Thong\Form_He_Thong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_He_Thong\Chuc_Vu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_He_Thong\Dot_Danh_gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_He_Thong\Ke_Hoach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_He_Thong\Phong_Ban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Bo_Tieu_Chi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Chi_Tiet_Danh_Gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Danh_Gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Form_Quan_Ly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Nhan_Vien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Quan_Ly\Tieu_Chi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Bao_cao\Chi_Tiet_Danh_Gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Bao_cao\Form_Bao_cao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Bao_cao\TongHopKetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Doi_MK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="TongHop.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
